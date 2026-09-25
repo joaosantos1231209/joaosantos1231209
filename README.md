@@ -1,10 +1,10 @@
-# Olá, sou o João Santos 👋
+# Hi, I'm João Santos 👋
 
-Engenheiro de Software focado em **Full-Stack Development** com base sólida em **Redes e Infraestrutura**. Construo aplicações web modernas ponta a ponta com TypeScript, focando-me em arquiteturas escaláveis, código tipado e experiência de utilizador fluida.
+Software Engineer focused on **Full-Stack Development** with a strong foundation in **Networking & Infrastructure**. I build modern, end-to-end web applications with TypeScript, prioritizing scalable architectures, type safety, and seamless user experiences.
 
 ---
 
-### 🛠️ Stack Tecnológica & Ferramentas
+### 🛠️ Tech Stack & Tools
 
 **Frontend & Mobile Web**  
 ![React](https://img.shields.io/badge/React_18%2F19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -19,13 +19,13 @@ Engenheiro de Software focado em **Full-Stack Development** com base sólida em 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
 
-**Bases de Dados & ORM**  
+**Databases & ORM**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logoColor=black)
 
-**Infraestrutura, Cloud & Ferramentas**  
+**Infrastructure, Cloud & Tooling**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -34,22 +34,22 @@ Engenheiro de Software focado em **Full-Stack Development** com base sólida em 
 
 ---
 
-### 📜 Certificações & Formação
+### 📜 Certifications & Education
 
-* **Licenciatura em Engenharia Informática** — Instituto Superior de Engenharia do Porto (ISEP)
+* **B.Sc. in Computer Science & Software Engineering** — Instituto Superior de Engenharia do Porto (ISEP)
 * **AWS Academy Graduate** — AWS Academy Cloud Foundations
 * **Cisco CCNA** — Routing, Switching, Enterprise Networking, Security & Automation
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 Featured Projects
 
-* 🚗 **[Road-Buddies](https://github.com/joaosantos1231209/Road-Buddies):** Plataforma corporativa *Full-Stack* de carpooling e gestão de frotas para a LOBA (React 19, Express 5, Drizzle ORM, MySQL 8, PWA e Firebase FCM).
-* ⚽ **[mundial-2026](https://github.com/joaosantos1231209/mundial-2026):** Estudo de caso de engenharia desportiva para a FIFA World Cup 2026, com simulação determinística de cenários (*What-If*), sincronização resiliente com a ESPN API e base de dados SQLite.
+* 🚗 **[Road-Buddies](https://github.com/joaosantos1231209/Road-Buddies):** Enterprise Full-Stack carpooling and fleet management platform developed for LOBA (React 19, Express 5, Drizzle ORM, MySQL 8, PWA, and Firebase FCM).
+* ⚽ **[mundial-2026](https://github.com/joaosantos1231209/mundial-2026):** Sports engineering case study for the FIFA World Cup 2026, featuring deterministic "What-If" scenario simulation, resilient sync with the ESPN API, and SQLite persistence.
 
 ---
 
-### 📫 Contacto & Redes
+### 📫 Connect with Me
 
 * **LinkedIn:** [linkedin.com/in/joao-p-g-santos](https://www.linkedin.com/in/joao-p-g-santos/)
 * **Email:** jpgomessantos1@gmail.com
